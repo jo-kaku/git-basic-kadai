@@ -1,0 +1,6 @@
+1  mkdir git_challenge
+2  touch hello_world.txt
+3  git commit -m "hello_world.txtを追加"
+   git commit -m "日本語訳を追記"
+4  git log --oneline
+5  mkdir kadai_005
