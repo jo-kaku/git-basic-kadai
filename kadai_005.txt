@@ -23,3 +23,7 @@
    cd kadai_005
    git init
       Initialized empty Git repository in /Users/kakumotojyoji/kadai_005/.git/ - 
+   touch kadai_005.txt
+   git add .
+   git commit -m "kadai_005の再提出"
+     [main b4597da] kadai_005の再提出
