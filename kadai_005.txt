@@ -22,4 +22,4 @@
 5  mkdir kadai_005
    cd kadai_005
    git init
-      Initialized empty Git repository in /Users/kakumotojyoji/kadai_005/.git/
+      Initialized empty Git repository in /Users/kakumotojyoji/kadai_005/.git/ - 
